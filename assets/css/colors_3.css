@@ -116,19 +116,19 @@ blockquote {
 /* ---------------------------------------------- */
 
 .our-clients {
-    background: #9c9992; /* Secondary color */
+    background: #7c7c7c; /* Secondary color */
 }
 
 .btn-outlined {
-    border: 1px solid #9c9992; /* Secondary color */
-    background-color: #9c9992; /* Secondary color */
+    border: 1px solid #7c7c7c; /* Secondary color */
+    background-color: #7c7c7c; /* Secondary color */
 }
 
 
 .btn-outlined:hover,
 .btn-outlined:focus{
-	color:#9c9992; /* Secondary color */
-    border: 1px solid #9c9992; /* Secondary color */
+	color:#7c7c7c; /* Secondary color */
+    border: 1px solid #7c7c7c; /* Secondary color */
 }
 
 
